@@ -1,4 +1,4 @@
 Study
 =====
 
-First time tu use GitHub
+First time to use GitHub
